@@ -1,0 +1,16 @@
+steamcommunity.com
+shared.steamstatic.com
+avatars.githubusercontent.com
+community.steamstatic.com
+store.steampowered.com
+github.githubassets.com
+irc-ws.chat.twitch.tv
+smotreshka.sequoia-api.lfstrm.tv
+stalcraft.wiki
+smotreshka.tv
+cm.ottgoods.ru
+lordfilmpik.live
+tms.delta.com
+www.winkgo.com
+www.juniper.net
+chrome.cloudflare-dns.com
